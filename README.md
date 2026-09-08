@@ -1,8 +1,15 @@
 # 🎯 Delta Lake 4.0 — Deep Dive Guide (Senior Data Engineer / Interview Edition)
-
-> This is not a notebook recap. This is a **topic-by-topic mastery breakdown** — the kind of depth expected when a Staff/Senior Data Engineer is asked *"Walk me through how Delta Lake actually works"* in a system-design or technical interview.
-
-Each section covers: **What it is → How it works internally → Syntax → Real-world use case → Gotchas → Interview Q&A.**
+![Delta Lake](https://img.shields.io/badge/Delta-Lake%204.0-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+![Transaction Log](https://img.shields.io/badge/Transaction-Log%20Internals-FF3621?style=for-the-badge)
+![ACID](https://img.shields.io/badge/ACID-Transactions-blue?style=for-the-badge)
+![Schema Evolution](https://img.shields.io/badge/Schema-Evolution%20%26%20Enforcement-brightgreen?style=for-the-badge)
+![MERGE](https://img.shields.io/badge/DML-MERGE%20%26%20Upserts-orange?style=for-the-badge)
+![Deletion Vectors](https://img.shields.io/badge/Deletion-Vectors-9cf?style=for-the-badge)
+![CDC](https://img.shields.io/badge/Change%20Data-Feed%20(CDC)-success?style=for-the-badge)
+![Time Travel](https://img.shields.io/badge/Time%20Travel-Restore%20%26%20Vacuum-yellow?style=for-the-badge)
+![UniForm](https://img.shields.io/badge/UniForm-Iceberg%20Interop-lightgrey?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Z--Order-Liquid%20Clustering-red?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Editor%20%26%20Queries-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
